@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectPassports", "ProjectPassports\ProjectPassports.csproj", "{5397E0E6-10B8-413E-B1AB-6020625A0060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5397E0E6-10B8-413E-B1AB-6020625A0060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5397E0E6-10B8-413E-B1AB-6020625A0060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5397E0E6-10B8-413E-B1AB-6020625A0060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5397E0E6-10B8-413E-B1AB-6020625A0060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ADF4AFBD-E7FC-4763-BEDC-90669E940CE2}
+	EndGlobalSection
+EndGlobal

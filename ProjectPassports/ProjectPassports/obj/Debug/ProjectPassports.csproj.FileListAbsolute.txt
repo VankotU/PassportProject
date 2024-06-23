@@ -1,0 +1,7 @@
+C:\na Vanio domashniti\ProjectPassports\ProjectPassports\bin\Debug\ProjectPassports.exe.config
+C:\na Vanio domashniti\ProjectPassports\ProjectPassports\bin\Debug\ProjectPassports.exe
+C:\na Vanio domashniti\ProjectPassports\ProjectPassports\bin\Debug\ProjectPassports.pdb
+C:\na Vanio domashniti\ProjectPassports\ProjectPassports\obj\Debug\ProjectPassports.csproj.AssemblyReference.cache
+C:\na Vanio domashniti\ProjectPassports\ProjectPassports\obj\Debug\ProjectPassports.csproj.CoreCompileInputs.cache
+C:\na Vanio domashniti\ProjectPassports\ProjectPassports\obj\Debug\ProjectPassports.exe
+C:\na Vanio domashniti\ProjectPassports\ProjectPassports\obj\Debug\ProjectPassports.pdb
